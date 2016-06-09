@@ -1,0 +1,16 @@
+body{
+	background-color:#3E3E3E;
+}
+
+.img_logo{
+	height: 50px;
+	width: 50px;
+}
+
+.logo{
+	height: 50px;
+	width: 50px;
+}
+div{
+	border: 1px solid black;
+}
